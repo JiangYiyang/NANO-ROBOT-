@@ -1,4 +1,4 @@
-本项目转自稚晖君（https://github.com/peng-zhihui）项目，由于属于前期项目未在github上提供，所以无法fork。此文件仅供小伙伴合作讨论~
+本项目转自稚晖君（ https://github.com/peng-zhihui ）项目，由于属于前期项目未在github上提供，所以无法fork。此文件仅供小伙伴合作讨论~
 
 固件使用方法：把程序文件夹里的Adafruit_GFX和Adafruit_SSD1306放入arduino IDE的库文件夹，然后打开nano.ino文件就可以编译通过了，推荐使用最新版本IDE
 
